@@ -8,4 +8,4 @@ __Gameplay__
 
 Some screenshots of the game:
 
-&amp;&amp;&amp; <img src="wordsearch_demo.png" width="390">
+&emsp;emsp;&emsp; <img src="wordsearch_demo.png" width="390">
